@@ -1,0 +1,7 @@
+c:\users\btm0466\documents\visual studio 2015\Projects\Log4NetStart\Log4NetStart\bin\Debug\Log4NetStart.exe.config
+c:\users\btm0466\documents\visual studio 2015\Projects\Log4NetStart\Log4NetStart\bin\Debug\Log4NetStart.exe
+c:\users\btm0466\documents\visual studio 2015\Projects\Log4NetStart\Log4NetStart\bin\Debug\Log4NetStart.pdb
+c:\users\btm0466\documents\visual studio 2015\Projects\Log4NetStart\Log4NetStart\obj\Debug\Log4NetStart.csprojResolveAssemblyReference.cache
+c:\users\btm0466\documents\visual studio 2015\Projects\Log4NetStart\Log4NetStart\obj\Debug\Log4NetStart.exe
+c:\users\btm0466\documents\visual studio 2015\Projects\Log4NetStart\Log4NetStart\obj\Debug\Log4NetStart.pdb
+c:\users\btm0466\documents\visual studio 2015\Projects\Log4NetStart\Log4NetStart\bin\Debug\log4net.dll
